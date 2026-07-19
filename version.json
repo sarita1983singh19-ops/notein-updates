@@ -1,6 +1,6 @@
 {
-  "enabled": true,
+  "enabled": false,
   "latest": "1.2",
   "file": "Notes___1.2.html",
-  "notes": "Performance fixes, cursor & tilt removed for mobile"
+  "notes": "With some more features"
 }
