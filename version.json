@@ -1,6 +1,7 @@
 {
-  "enabled": true,
+  "enabled": false,
   "latest": "1.3",
-  "file": "Notes v1.2.html",
+  "file": "Notes v1.3.html",
+  "size": "147 KB",
   "notes": "With some more features"
 }
